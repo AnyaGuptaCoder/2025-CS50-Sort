@@ -1,0 +1,13 @@
+sort1 uses: Bubble Sort
+
+How do you know?: After eliminating sort2, this one was faster than sort3 at sorting an already sorted list of numbers.
+
+sort2 uses: Merge sort
+
+How do you know?: This one took significantly shorter than the other two when sorting random50000.
+
+sort3 uses: Selection sort
+
+How do you know?: This one was the only one left after the other two were determined.
+
+
